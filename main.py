@@ -82,6 +82,3 @@ def new_game():
 
 # The game starts with running the defined function
 new_game()
-
-
-
