@@ -6,8 +6,8 @@
 3. Define new_game():
    1. Ask for input of number of total sticks wanted (10-100)
    2. Check for misinput and repeat question if answer is wrong
-   4. Output game start message
-   5. While total amount of sticks is greater than zero:
+   3. Output game start message
+   4. While total amount of sticks is greater than zero:
       1. Start the game loop with a while statement (while sticks > 0:)
          1. Start of Player 1's turn
          2. Ask for input of Player 1's amount of sticks to take (1-3)
