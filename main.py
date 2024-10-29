@@ -21,7 +21,9 @@ def new_game():
             print("Invalid input. Please enter a number.")
 
     # Outputs game start message
-    print("\nLet's begin!\n")
+    print("""
+    Let's begin!
+    """)
 
     # Start of the game loop, kept in loop by making sure the total sticks are greater than zero
     while sticks > 0:
